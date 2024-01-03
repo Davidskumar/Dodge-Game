@@ -1,5 +1,5 @@
 # Dodge-Game DougeTere
-3D Obsticle Dodge Game created in Unity Engine (3-Levels).
+3D Obstacle Dodge Game created in Unity Engine (3-Levels).
 
 Objective:
 --------------
